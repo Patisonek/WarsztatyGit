@@ -1,1 +1,4 @@
 to jest plik2
+I byloby fajnie gydby cos wiecej sie tutaj zaczelo dzialac
+
+Ale zawsze mozna wrocic do tego samego i patrzec jak inni robia inaczej
