@@ -1,0 +1,5 @@
+Agenda:
+
+1) Wprowadzenie do GIT
+2) Polecenia GIT - konsola
+3) Podsumowanie
